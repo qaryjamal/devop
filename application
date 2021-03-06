@@ -1,0 +1,5 @@
+dbName:test
+password:123456789
+user:test
+hibernate:update
+
